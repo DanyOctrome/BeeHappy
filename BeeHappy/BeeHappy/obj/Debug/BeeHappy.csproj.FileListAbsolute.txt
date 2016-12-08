@@ -77,3 +77,6 @@ C:\BeeHappy\BeeHappy\BeeHappy\bin\Microsoft.Owin.Security.OAuth.xml
 C:\BeeHappy\BeeHappy\BeeHappy\obj\Debug\BeeHappy.csprojResolveAssemblyReference.cache
 C:\BeeHappy\BeeHappy\BeeHappy\obj\Debug\BeeHappy.dll
 C:\BeeHappy\BeeHappy\BeeHappy\obj\Debug\BeeHappy.pdb
+C:\BeeHappy\BeeHappy\BeeHappy\BeeHappy\obj\Debug\BeeHappy.csprojResolveAssemblyReference.cache
+C:\BeeHappy\BeeHappy\BeeHappy\BeeHappy\obj\Debug\BeeHappy.dll
+C:\BeeHappy\BeeHappy\BeeHappy\BeeHappy\obj\Debug\BeeHappy.pdb

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<quinta>
+  <numColmeias> 
+    32
+  </numColmeias>
+  <tipoMel>
+    eucalipto
+  </tipoMel>
+  <producao>
+    <quantidade>
+      160
+    </quantidade>
+    <ano>
+      2015
+    </ano>
+  </producao>
+</quinta>
