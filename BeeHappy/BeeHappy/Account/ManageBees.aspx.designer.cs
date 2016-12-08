@@ -7,36 +7,27 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BeeHappy {
+namespace BeeHappy.Account {
     
     
-    public partial class Start {
+    public partial class ManageBees {
         
         /// <summary>
-        /// clientCount control.
+        /// GridView1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label clientCount;
+        protected global::System.Web.UI.WebControls.GridView GridView1;
         
         /// <summary>
-        /// hiveCount control.
+        /// DetailsView1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Label hiveCount;
-        
-        /// <summary>
-        /// honeyCount control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.WebControls.Label honeyCount;
+        protected global::System.Web.UI.WebControls.DetailsView DetailsView1;
     }
 }

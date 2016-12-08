@@ -5,16 +5,15 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace BeeHappy
+namespace BeeHappy.Account
 {
-    public partial class Start : System.Web.UI.Page
+    public partial class ManageBees : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            /// TODO: Com a base de dados preencher as labels 
-            /// clientCount
-            /// hiveCount
-            /// honeyCount
+
         }
+
+      
     }
 }
