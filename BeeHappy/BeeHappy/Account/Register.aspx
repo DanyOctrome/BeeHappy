@@ -35,6 +35,21 @@
                 <asp:CompareValidator runat="server" ControlToCompare="Password" ControlToValidate="ConfirmPassword"
                     CssClass="text-danger" Display="Dynamic" ErrorMessage="The password and confirmation password do not match." />
             </div>
+            <div class="form-group">
+            <asp:Label runat="server" AssociatedControlID="Name" CssClass="col-md-2 control-label">Name</asp:Label>
+            <div class="col-md-10">
+                <asp:TextBox runat="server" ID="Name" CssClass="form-control"/>
+                <asp:RequiredFieldValidator runat="server" ControlToValidate="Name"
+                    CssClass="text-danger" ErrorMessage="The Name field is required." />
+            </div>
+            <div class="form-group">
+            <asp:Label runat="server" AssociatedControlID="CC" CssClass="col-md-2 control-label">CC</asp:Label>
+            <div class="col-md-10">
+                <asp:TextBox runat="server" ID="CC" CssClass="form-control"/>
+                <asp:RequiredFieldValidator runat="server" ControlToValidate="CC"
+                    CssClass="text-danger" ErrorMessage="The CC field is required." />
+            </div>
+        </div>
         </div>
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">

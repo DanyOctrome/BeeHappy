@@ -25,6 +25,9 @@ namespace BeeHappy.Models
         {
             return Task.FromResult(GenerateUserIdentity(manager));
         }
+
+        public String Name { get; set; }
+        public int CC { get; set; }
     }
 
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
