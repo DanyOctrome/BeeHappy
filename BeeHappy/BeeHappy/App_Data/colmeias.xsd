@@ -13,6 +13,13 @@
             </xs:sequence>
           </xs:complexType>
         </xs:element>
+        <xs:element name="donos">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="donos" maxOccurs="unbounded" type="xs:string"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
