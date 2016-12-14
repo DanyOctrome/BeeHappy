@@ -1,7 +1,6 @@
 -- criar a tabela
 CREATE TABLE [dbo].[XMLDoc]( 
-	[id] [int] IDENTITY(1,1) NOT NULL, 
-	[theDoc] [xml](DOCUMENT [dbo].[MAfrica]) NULL, 
+	[theDoc] [xml](DOCUMENT [dbo].[BeeHappy]) NULL, 
 	CONSTRAINT [PK__XMLDoc__0DAF0CB0] PRIMARY KEY CLUSTERED 
 	( 
 		[id] ASC 
@@ -16,7 +15,7 @@ CREATE TABLE [dbo].[XMLDoc](
 	) 
 	ON [PRIMARY] 
 ) 
-ON [PRIMARY] GO
+GO
 
 -- stored procedure: inserção
 CREATE PROCEDURE [dbo].[InsertXmlDoc] 
@@ -55,26 +54,3 @@ BEGIN
 	DELETE FROM [XMLDoc] WHERE (([id] = @Original_id)) 
 END 
 GO
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
