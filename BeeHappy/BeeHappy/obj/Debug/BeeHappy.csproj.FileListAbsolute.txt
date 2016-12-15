@@ -239,3 +239,7 @@ C:\BeeHappy\BeeHappy\BeeHappy\BeeHappy\obj\Debug\BeeHappy.Migrations.InitialCrea
 C:\BeeHappy\BeeHappy\BeeHappy\BeeHappy\obj\Debug\BeeHappy.csproj.GenerateResource.Cache
 C:\BeeHappy\BeeHappy\BeeHappy\BeeHappy\obj\Debug\BeeHappy.Migrations.Name.resources
 C:\BeeHappy\BeeHappy\BeeHappy\BeeHappy\obj\Debug\BeeHappy.Migrations.CC.resources
+C:\Users\Ines\Source\Repos\BeeHappy\BeeHappy\BeeHappy\obj\Debug\BeeHappy.Migrations.InitialCreate.resources
+C:\Users\Ines\Source\Repos\BeeHappy\BeeHappy\BeeHappy\obj\Debug\BeeHappy.Migrations.Name.resources
+C:\Users\Ines\Source\Repos\BeeHappy\BeeHappy\BeeHappy\obj\Debug\BeeHappy.Migrations.CC.resources
+C:\Users\Ines\Source\Repos\BeeHappy\BeeHappy\BeeHappy\obj\Debug\BeeHappy.csproj.GenerateResource.Cache

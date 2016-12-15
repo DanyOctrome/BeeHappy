@@ -1,20 +1,7 @@
 -- criar a tabela
-CREATE TABLE [dbo].[XMLDoc]( 
-	[theDoc] [xml](DOCUMENT [dbo].[BeeHappy]) NULL, 
-	CONSTRAINT [PK__XMLDoc__0DAF0CB0] PRIMARY KEY CLUSTERED 
-	( 
-		[id] ASC 
-	)
-	WITH 
-	( 
-		PAD_INDEX = OFF, 
-		STATISTICS_NORECOMPUTE = OFF, 
-		IGNORE_DUP_KEY = OFF, 
-		ALLOW_ROW_LOCKS = ON, 
-		ALLOW_PAGE_LOCKS = ON 
-	) 
-	ON [PRIMARY] 
-) 
+CREATE TABLE xmlData( 
+	colmeias XML)
+	
 GO
 
 -- stored procedure: inserção
